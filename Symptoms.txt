@@ -1,0 +1,19 @@
+Diabetes 
+- fatigue
+- weight_loss	
+- restlessness	
+- lethargy
+- irregular_sugar_level
+- blurred_and_distorted_vision
+- obesity
+- excessive_hunger
+
+Jaundice
+- itching
+- vomiting
+- fatigue
+- weight_loss
+- high_fever
+- yellowish_skin
+
+
